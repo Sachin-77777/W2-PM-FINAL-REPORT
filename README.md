@@ -135,9 +135,6 @@ The activities described in this letter are authorised solely for the targets an
 - [11. Lessons Learned](#11-lessons-learned)
 - [12. Conclusion](#12-conclusion)
 - [13. References](#13-references)
-- [14. Appendices](#14-appendices)
-  - [Appendix A: Commands Used](#appendix-a-commands-used)
-  - [Appendix B: Raw Output Logs](#appendix-b-raw-output-logs)
 
 ## 1. Executive Summary
 
@@ -477,7 +474,7 @@ Zenmap is the official graphical user interface for Nmap. It provides pre-config
 *Figure 6: Nmap host discovery scan of the 10.0.2.0/24 subnet identifying three live hosts.*
 
 
-
+<img width="1918" height="1126" alt="image" src="https://github.com/user-attachments/assets/53ad7e50-e752-422a-8228-0fc46a33f746" />
 *Figure 7: Open ports and services identified on host 10.0.2.2 using Nmap service detection.*
 
 ### 7.7 Findings
@@ -761,37 +758,3 @@ National Institute of Standards and Technology. *National Vulnerability Database
 Government of Nepal. *Electronic Transactions Act, 2063 (2008).*
 
 Kali Linux Documentation. *theHarvester and Nmap tool pages.* https://www.kali.org/tools/
-
-## 14. Appendices
-
-### Appendix A: Commands Used
-
-```bash
-# Nmap / Zenmap
-theHarvester -d microsoft.com -b crtsh -l 50
-theHarvester -d microsoft.com -b rapiddns -l 50
-
-ip addr
-
-nmap -sn 10.0.2.0/24
-
-nmap -A 10.0.2.2
-```
-
-### Appendix B: Raw Output Logs
-
-**Appendix B.1 - theHarvester CRTSH Output**
-
-![Appendix B.1 - theHarvester CRTSH Output](images/image8.png)
-
-**Appendix B.2 - theHarvester RapidDNS Output**
-
-![Appendix B.2 - theHarvester RapidDNS Output](images/image9.png)
-
-**Appendix B.3 - Nmap Host Discovery Scan**
-
-![Appendix B.3 - Nmap Host Discovery Scan](images/image10.png)
-
-**Appendix B.4 - Nmap Service Detection Scan**
-
-![Appendix B.4 - Nmap Service Detection Scan](images/image11.png)
