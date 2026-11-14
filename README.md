@@ -470,15 +470,13 @@ Zenmap is the official graphical user interface for Nmap. It provides pre-config
 
 ### 7.6 Screenshots
 
-![Figure 5: Zenmap main window configured for the Intense scan](images/image5.png)
-
+<img width="1764" height="802" alt="image" src="https://github.com/user-attachments/assets/7c14932e-a3b7-4581-9515-7ea2d1118366" />
 *Figure 5: Zenmap main window configured for the Intense scan*
 
-![Figure 6: Nmap host discovery scan of the 10.0.2.0/24 subnet identifying three live hosts.](images/image6.png)
-
+<img width="996" height="640" alt="image" src="https://github.com/user-attachments/assets/c531766c-39a0-47a1-ae26-d7cb476740b0" />
 *Figure 6: Nmap host discovery scan of the 10.0.2.0/24 subnet identifying three live hosts.*
 
-![Figure 7: Open ports and services identified on host 10.0.2.2 using Nmap service detection.](images/image7.png)
+
 
 *Figure 7: Open ports and services identified on host 10.0.2.2 using Nmap service detection.*
 
