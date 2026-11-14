@@ -325,7 +325,7 @@ theHarvester --help
 theHarvester --version
 ```
 
-![Figure 1: theHarvester installation verified on Kali Linux](images/image1.png)
+<img width="667" height="367" alt="image" src="https://github.com/user-attachments/assets/7b6e2247-4a76-43b9-a604-b0b136eaa28b" />
 
 *Figure 1: theHarvester installation verified on Kali Linux*
 
