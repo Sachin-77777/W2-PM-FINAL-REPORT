@@ -325,7 +325,7 @@ theHarvester --help
 theHarvester --version
 ```
 
-<img width="667" height="367" alt="image" src="https://github.com/user-attachments/assets/7b6e2247-4a76-43b9-a604-b0b136eaa28b" />
+
 
 *Figure 1: theHarvester installation verified on Kali Linux*
 
@@ -352,7 +352,7 @@ theHarvester --version
 
 ### 6.5 Screenshots
 
-![Figure 2: theHarvester executing against the authorised domain](images/image2.png)
+<img width="1252" height="310" alt="image" src="https://github.com/user-attachments/assets/88a32b24-639a-4ac5-8782-0db7b8b0a7e2" />
 
 *Figure 2: theHarvester executing against the authorised domain*
 
