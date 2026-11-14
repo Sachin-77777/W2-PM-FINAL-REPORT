@@ -349,7 +349,7 @@ theHarvester --version
 
 ### 6.5 Screenshots
 
-<img width="1252" height="310" alt="image" src="https://github.com/user-attachments/assets/88a32b24-639a-4ac5-8782-0db7b8b0a7e2" />
+<img width="667" height="367" alt="image" src="https://github.com/user-attachments/assets/bb23e360-4ed7-4a76-8f9b-89213d752322" />
 
 *Figure 2: theHarvester executing against the authorised domain*
 
