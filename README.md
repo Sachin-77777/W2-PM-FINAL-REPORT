@@ -356,8 +356,7 @@ theHarvester --version
 
 *Figure 2: theHarvester executing against the authorised domain*
 
-![Figure 3: theHarvester assessment using the crtsh source returned no hosts, emails, or IP addresses.](images/image3.png)
-
+<img width="711" height="558" alt="image" src="https://github.com/user-attachments/assets/699e295d-b943-4480-ad87-27b061ddbbaf" />
 *Figure 3: theHarvester assessment using the crtsh source returned no hosts, emails, or IP addresses.*
 
 ![Figure 4: Successful RapidDNS enumeration showing 84 discovered hosts](images/image4.png)
